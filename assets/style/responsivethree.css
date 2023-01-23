@@ -1,0 +1,51 @@
+@media (max-width: 850px) {
+
+    * {
+        background-attachment: fixed;
+    }
+    .belier{
+        height: 800px;
+        width: 360px;
+    }
+
+    .belier p{
+        font-size: 18px;
+        padding: 10px 10px 10px 10px;
+    }
+    .gemini{
+        height: 1000px;
+        width: 360px;
+    }
+
+    .gemini p{
+        font-size: 18px;
+        padding: 10px 10px 10px 10px;
+    }
+
+    main img{
+        display: none;
+    }
+
+    footer{
+        position: sticky;
+        bottom: 0;
+    }
+    footer ul {
+        margin-left: -150px;
+        
+        
+    }
+    .wrappedContainer p {
+        display: none;
+    }
+
+    .wrappedContainer {
+        margin-bottom: 0px;
+    }
+
+
+
+
+
+
+}
